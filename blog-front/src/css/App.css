@@ -1,0 +1,4 @@
+textarea { resize:none; }
+textarea{ 
+    min-height: 300px;
+  }
